@@ -1,5 +1,5 @@
 # Tank Maze Demo 坦克迷宫
-Unity + C# 单机坦克小游戏Demo
+Unity + C# 单机坦克小游戏Demo。具体代码存放在Assets中实践小项目的文件夹中
 
 ## 🎮 操作说明
 - W / S：前进、后退
